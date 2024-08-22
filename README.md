@@ -53,4 +53,5 @@ Data Visualization and Forecasting: Utilized interactive charts to visually repr
 
 
 📸 Snapshot of analysis:
+
 <img width="482" alt="Screenshot 2024-08-22 185454" src="https://github.com/user-attachments/assets/6a601cba-296c-45d1-bef7-21242f5fef84">
